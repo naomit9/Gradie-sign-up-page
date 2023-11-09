@@ -28,8 +28,9 @@ This project is a simple HTML/CSS sign-up page designed for web applications, we
     * css/
     * assets/ (if you want to use the screenshot)
 3. Link the styles.css file to your HTML document using the following code in the <head> section of your HTML file:
+```
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-
+```
 
 ### Customization
 You can customize the sign-up page to match your project's specific requirements. Here are some customization options:
